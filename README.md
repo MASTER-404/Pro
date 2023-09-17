@@ -21,6 +21,7 @@ pip install mechanize
 rm -rf Pro 
 
 git clone https://github.com/MASTER-404/Pro
+
 cd Pro 
 
 git pull
