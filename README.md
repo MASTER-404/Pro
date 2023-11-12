@@ -26,4 +26,4 @@ cd Pro
 
 git pull
 
-python run1.py
+python run.py
